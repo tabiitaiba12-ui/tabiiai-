@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.TabiAI" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/tabi_primary</item>
+        <item name="colorPrimaryVariant">@color/tabi_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/tabi_secondary</item>
+        <item name="colorSecondaryVariant">@color/tabi_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/tabi_background_dark</item>
+        <item name="colorSurface">@color/tabi_surface_dark</item>
+        <item name="colorOnSurface">@color/tabi_on_surface_dark</item>
+        <item name="android:statusBarColor">@color/tabi_background_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:navigationBarColor">@color/tabi_background_dark</item>
+    </style>
+
+</resources>

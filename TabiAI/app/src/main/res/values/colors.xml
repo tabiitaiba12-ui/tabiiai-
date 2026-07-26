@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="tabi_primary">#6C5CE7</color>
+    <color name="tabi_primary_dark">#5849C2</color>
+    <color name="tabi_secondary">#00CEC9</color>
+    <color name="tabi_accent">#FD79A8</color>
+
+    <!-- Light theme -->
+    <color name="tabi_background_light">#F7F6FB</color>
+    <color name="tabi_surface_light">#FFFFFF</color>
+    <color name="tabi_on_surface_light">#1B1B23</color>
+    <color name="tabi_bubble_user_light">#6C5CE7</color>
+    <color name="tabi_bubble_ai_light">#EDEBFA</color>
+
+    <!-- Dark theme -->
+    <color name="tabi_background_dark">#121016</color>
+    <color name="tabi_surface_dark">#1E1B26</color>
+    <color name="tabi_on_surface_dark">#F2F1F7</color>
+    <color name="tabi_bubble_user_dark">#6C5CE7</color>
+    <color name="tabi_bubble_ai_dark">#2A2733</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="tabi_error">#FF5C5C</color>
+    <color name="tabi_mic_idle">#6C5CE7</color>
+    <color name="tabi_mic_listening">#FD79A8</color>
+    <color name="transparent">#00000000</color>
+</resources>
